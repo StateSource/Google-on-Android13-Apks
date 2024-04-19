@@ -1,0 +1,4 @@
+android13 for raspberrypi : https://androidfilehost.com/?fid=10620683726822060099
+for apks look in github site
+for store : https://uptodown-android.en.uptodown.com/android/post-download
+google play services : https://google-play-services.en.uptodown.com/android/post-download/1008935985
